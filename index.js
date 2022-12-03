@@ -18,4 +18,4 @@ bot.on('message', message => {
   }
 });
 
-bot.login('YOUR BOT TOKEN HERE!!!');
+bot.login('MTAyMTQyMDg4MTM2NjQ4Mjk1NA.GtSKSE.xNVQypEADIsKiYpgHrjIkrlmFlA5VhdtV4C17E');
